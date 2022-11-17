@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Students>
+    <Student>
+        <Id>0</Id>
+        <Name>Patrik</Name>
+        <BirthDate>2002-09-27</BirthDate>
+        <Email>patrik@gmail.com</Email>
+        <Major>CS</Major>
+        <FinancingType>SUBSIDIED</FinancingType>
+        <CourseType>F</CourseType>
+    </Student>
+    <Student>
+        <Id>1</Id>
+        <Name>Bence</Name>
+        <BirthDate>2001-08-12</BirthDate>
+        <Email>bence@gmail.com</Email>
+        <Major>BIO</Major>
+        <FinancingType>SUBSIDIED</FinancingType>
+        <CourseType>F</CourseType>
+    </Student>
+</Students>
